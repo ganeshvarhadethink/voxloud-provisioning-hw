@@ -1,0 +1,6 @@
+username=walter
+password=white
+codecs=G711,G729,OPUS
+domain=sip.anotherdomain.com
+port=5161
+timeout=10
